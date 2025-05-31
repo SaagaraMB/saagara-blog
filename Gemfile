@@ -9,3 +9,4 @@ gem "jekyll-paginate-content"
 gem "json"
 gem "base64", require: false
 gem "bigdecimal", require: false
+gem "logger", require: false
