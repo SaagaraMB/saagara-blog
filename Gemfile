@@ -7,3 +7,5 @@ gem "jekyll"
 gem "jekyll-paginate"
 gem "jekyll-paginate-content"
 gem "json"
+gem "base64", require: false
+gem "bigdecimal", require: false
