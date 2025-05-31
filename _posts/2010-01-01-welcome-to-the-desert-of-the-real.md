@@ -7,9 +7,9 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  https://drive.google.com/file/d/1V742DzssxQrOqrCdpeOni0GxxBVKA5VI/view?usp=sharing
+  /Users/saagaramb/saagara-blog/assets/img/web_bg.png
 optimized_image: >-
-  https://drive.google.com/file/d/1V742DzssxQrOqrCdpeOni0GxxBVKA5VI/view?usp=sharing
+  /Users/saagaramb/saagara-blog/assets/img/web_bg.png
 category: blog
 tags:
   - welcome
