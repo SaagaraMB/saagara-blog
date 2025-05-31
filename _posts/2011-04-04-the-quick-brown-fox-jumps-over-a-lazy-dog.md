@@ -4,8 +4,8 @@ layout: post
 title: Test Blog
 subtitle: Testing Frontend Content
 description: I am testing content for website
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v1506079212/jekflix-capa_vfhuzh.png
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1506079212/jekflix-capa_vfhuzh.png
+image: https://drive.google.com/file/d/1V742DzssxQrOqrCdpeOni0GxxBVKA5VI/view?usp=sharing
+optimized_image: https://drive.google.com/file/d/1V742DzssxQrOqrCdpeOni0GxxBVKA5VI/view?usp=sharing
 category: RL
 tags:
   - css
